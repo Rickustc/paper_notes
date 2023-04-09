@@ -1,6 +1,5 @@
 # paper_notes
 My daily paper notes 
 
- ![]()
+ ![](https://github.com/Rickustc/paper_notes/blob/master/image/image-20230409144411771.png?raw=true)
 
-![image-20230409144411771](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230409144411771.png)
