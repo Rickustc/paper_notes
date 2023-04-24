@@ -2,7 +2,7 @@
 
 > 改进半监督学习中的FixMatch,可以作为baseline的一个有趣的A+B工作
 
-<img src="C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230423172512037.png" alt="image-20230423172512037" style="zoom:50%;" />
+
 
 ![](https://github.com/Rickustc/paper_notes/blob/master/image/image-20230423172512037.png?raw=true)
 
