@@ -1,16 +1,45 @@
-# Introduction：
-
 Motivation
 
-- aim to build a foundation model for segmentation
+- prompt
+
+- aim to build a foundation model for segmentation and develope a prompt model for segmentation 
 
 Relative Work
+
+# 视觉大模型应该怎么做
+
+## 要做什么任务？
+
+分割任务：
+
+- 与分类一样是视觉的基础任务
+
+- 泛用性高，可以拓展到下游任务
+
+- 可以进行prompt自适应
+
+## 用什么模型
+
+![image-20230515195954647](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230515195954647.png)
+
+- image encoder用于获得图片的embedding，是网络的主要开销
+- box，point都是稀疏类型，用稀疏向量表示即可，mask是稠密类型需要采用卷积获得编码表示
+
+## 怎么训练
+
+![image-20230515200936012](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230515200936012.png)
+
+
+
+## 怎么得到数据集
+
+![image-20230515201059299](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230515201059299.png)
 
 
 
 Methods
 
-- a prompt-able segmentation task, 
+- a promptable segmentation task, 
 
 - a segmentation model (SAM) that powers data annotation and enables zero-shot transfer to a range of tasks via prompt engineering, 
 
@@ -20,7 +49,7 @@ Methods
 
 
 
-
+data engine如何构建
 
 如何标注这么大的数据集的？数据集迭代构建的思路：
 
@@ -42,7 +71,7 @@ Methods
 
 ![image-20230407191443082](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230407191443082.png)
 
-CV的语义信息属于弱聚合，而NLP的语义是强聚合，这一点来说对cv，多模态是未来：
+CV的语义信息属于弱聚合，而NLP的语义是强聚合，这一点来说对cv，多模态是cv大模型的未来：
 
 ![image-20230407193548066](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230407193548066.png)
 
