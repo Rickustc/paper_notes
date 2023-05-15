@@ -33,7 +33,9 @@ Relative Work
 
 ## 怎么得到数据集
 
-![image-20230515201059299](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230515201059299.png)
+
+
+![](https://github.com/Rickustc/paper_notes/blob/master/image/image-20230515201059299.png?raw=true)
 
 
 
