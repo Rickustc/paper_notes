@@ -17,7 +17,7 @@ anchor×   NMS×
 
 
 
-![image-20230424190041740](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230424190041740.png)
+![image-20230515213017103](assets/image-20230515213017103.png)
 
 DETR怎么做的：
 
@@ -29,9 +29,9 @@ DETR怎么做的：
 
 - loss：先进行二分图匹配，再计算分类loss+bbox loss
 
-![image-20230424190443655](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230424190443655.png)
+![image-20230515213024795](assets/image-20230515213024795.png)
 
-![image-20230424190437128](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230424190437128.png)
+![image-20230515213030429](assets/image-20230515213030429.png)
 
 实验：
 

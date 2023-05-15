@@ -14,11 +14,11 @@ Relative Work
 
 Methods
 
-- <img src="C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230407164541150.png" alt="image-20230407164541150" style="zoom:33%;" />
+- ![image-20230515213049636](assets/image-20230515213049636.png)
 
 
 
 
 
-![image-20230515212133496](assets/image-20230515212133496.png)
+
 

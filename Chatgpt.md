@@ -12,7 +12,7 @@ Train process:
 
 
 
-![](https://github.com/Rickustc/paper_notes/blob/master/image/image-20230407131239959.png?raw=true)
+![image-20230515213117585](assets/image-20230515213117585.png)
 
 
 

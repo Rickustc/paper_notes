@@ -20,14 +20,14 @@ Relative Work
 
 ## 用什么模型
 
-![image-20230515195954647](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230515195954647.png)
+![image-20230515212900543](assets/image-20230515212900543.png)
 
 - image encoder用于获得图片的embedding，是网络的主要开销
 - box，point都是稀疏类型，用稀疏向量表示即可，mask是稠密类型需要采用卷积获得编码表示
 
 ## 怎么训练
 
-![image-20230515200936012](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230515200936012.png)
+![image-20230515212908309](assets/image-20230515212908309.png)
 
 
 
@@ -35,7 +35,7 @@ Relative Work
 
 
 
-![](https://github.com/Rickustc/paper_notes/blob/master/image/image-20230515201059299.png?raw=true)
+![image-20230515212914571](assets/image-20230515212914571.png)
 
 
 
@@ -47,7 +47,7 @@ Methods
 
 - and a data engine for collecting SA-1B, our dataset of over 1 billion masks
 
-![image-20230407161337805](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230407161337805.png)
+![image-20230515212920697](assets/image-20230515212920697.png)
 
 
 
@@ -69,13 +69,13 @@ data engine如何构建
 
 
 
-![image-20230407191400669](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230407191400669.png)
+![image-20230515212926108](assets/image-20230515212926108.png)
 
-![image-20230407191443082](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230407191443082.png)
+![image-20230515212931279](assets/image-20230515212931279.png)
 
 CV的语义信息属于弱聚合，而NLP的语义是强聚合，这一点来说对cv，多模态是cv大模型的未来：
 
-![image-20230407193548066](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230407193548066.png)
+![image-20230515212939476](assets/image-20230515212939476.png)
 
 [Meta 发布图像分割论文 Segment Anything，将给 CV 研究带来什么影响？ - 知乎 ](https://www.zhihu.com/question/593914819)
 

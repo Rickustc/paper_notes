@@ -4,15 +4,15 @@
 
 ## 数据大小：
 
-![image-20230428122523015](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230428122523015.png)
+![image-20230515212628560](assets/image-20230515212628560.png)
 
 ## 模型大小
 
-![image-20230428122635727](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230428122635727.png)
+![image-20230515212709852](assets/image-20230515212709852.png)
 
 ## How to construct a LLM：
 
-![image-20230428121950916](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230428121950916.png)
+![image-20230515212717075](assets/image-20230515212717075.png)
 
 - 通过自监督任务压缩知识
 - 通过ICL（样例学习），Instruct tuning，Chain of thought(分解子问题)预训练模型
@@ -27,15 +27,15 @@
 
 ## 发展历程
 
-![image-20230428122242581](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230428122242581.png)
+![image-20230515212729274](assets/image-20230515212729274.png)
 
 ## 现有的模型大小和数据量大小
 
-![image-20230428122846521](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230428122846521.png)
+![image-20230515212735548](assets/image-20230515212735548.png)
 
 ## 讨论视觉局限性：还没有涌现能力
 
-![image-20230428122932164](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230428122932164.png)
+![image-20230515212744187](assets/image-20230515212744187.png)
 
 - 模型还不够大
 - 如何变大？模型构建，如何训起来这样一个模型
@@ -51,7 +51,7 @@
 
 # 视觉prompt的发展
 
-<img src="C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230428123725413.png" alt="image-20230428123725413" style="zoom:50%;" />
+![image-20230515212750337](assets/image-20230515212750337.png)
 
 ## Emdedding
 
