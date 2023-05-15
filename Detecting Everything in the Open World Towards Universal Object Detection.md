@@ -29,7 +29,7 @@ Multi-dataset object detection training
 
 
 
-![image-20230506141436507](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230506141436507.png)
+![image-20230515212403757](assets/image-20230515212403757.png)
 
 
 
@@ -39,7 +39,7 @@ Multi-dataset object detection training
 
 ### network structure
 
-![image-20230506142239064](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230506142239064.png)
+![image-20230515212415124](assets/image-20230515212415124.png)
 
 separate structure
 
@@ -72,7 +72,7 @@ partition structure
 
 ### CLN
 
-![image-20230506153058540](C:\Users\wrq\Desktop\坚果云同步\我的坚果云\Rainbell English1\Rainbell English\paper\paper_notes\image\image-20230506153058540.png)
+![image-20230515212432849](assets/image-20230515212432849.png)
 
 ref：ahun Kim, Tsung-Yi Lin, Anelia Angelova, In So Kweon,
 and Weicheng Kuo. Learning open-world object proposals
